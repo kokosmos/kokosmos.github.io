@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: uptime | My Octopress Blog]]></title>
+  <title><![CDATA[Category: uptime | Kokosmos]]></title>
   <link href="http://kokosmos.github.io/blog/categories/uptime/atom.xml" rel="self"/>
   <link href="http://kokosmos.github.io/"/>
-  <updated>2013-12-10T10:25:32+01:00</updated>
+  <updated>2013-12-10T10:45:30+01:00</updated>
   <id>http://kokosmos.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Kokosmos]]></name>
+    <email><![CDATA[kokosmospost@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
